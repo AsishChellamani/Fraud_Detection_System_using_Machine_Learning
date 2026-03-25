@@ -13,3 +13,10 @@
 - Got around 94% accuracy and high fraud detection rate
 - Saved the model using joblib
 - Deployes on Streamlit
+
+**Steps to Run**
+- git clone https://github.com/AsishChellamani/Fraud_Detection_System_using_Machine_Learning
+- cd Fraud_Detection_System_using_Machine_Learning
+- Add Dataset using the link
+(https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download)
+- streamlit run Fraud_Detection.py
