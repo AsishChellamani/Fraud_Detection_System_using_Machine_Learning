@@ -1,5 +1,5 @@
-** Fraud Detection System using Machine Learning(Logistic Regression) **
-This project focuses on detecting fraudulent financial transactions using machine learning techniques. It involves large-scale data analysis, feature engineering, and building a classification model using Scikit-learn. The dataset contains over 6 million transaction records, and the model is trained to identify fraud patterns with high recall.
+**Fraud Detection System using Machine Learning(Logistic Regression)**
+- This project focuses on detecting fraudulent financial transactions using machine learning techniques. It involves large-scale data analysis, feature engineering, and building a classification model using Scikit-learn. The dataset contains over 6 million transaction records, and the model is trained to identify fraud patterns with high recall.
 
 **What I Did**
 - Loaded and analyzed a dataset with 6 million+ transactions
